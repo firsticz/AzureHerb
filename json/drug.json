@@ -1,0 +1,152 @@
+{
+	"idSymtomGroup" : "01", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางระบบไหลเวียนโลหิต", 
+	"idDrugFormula" : "001" 
+}
+{
+	"idSymtomGroup" : "02", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางระบบทางเดินอาหาร", 
+	"idDrugFormula" : "002" 
+}
+{
+	"idSymtomGroup" : "03", 
+	"SymtomName" : "กลุ่มยาบรรเทาอาการท้องผูก", 
+	"idDrugFormula" : "003" 
+}
+{
+	"idSymtomGroup" : "04", 
+	"SymtomName" : "กลุ่มยาบรรเทาอาการแก้ท้องเสีย", 
+	"idDrugFormula" : "004" 
+}
+{
+	"idSymtomGroup" : "05", 
+	"SymtomName" : "กลุ่มยาบรรเทาริดสดีวงทวารหนัก", 
+	"idDrugFormula" : "005" 
+}
+{
+	"idSymtomGroup" : "06", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางสตูิศาสตร์นรเีวชวิทยา", 
+	"idDrugFormula" : "006" 
+}
+{
+	"idSymtomGroup" : "07", 
+	"SymtomName" : "ยาแก้ไข้", 
+	"idDrugFormula" : "007" 
+}
+{
+	"idSymtomGroup" : "08", 
+	"SymtomName" : "ยารักษากลุ่มอาการของระบบทางเดินหายใจ", 
+	"idDrugFormula" : "008" 
+}
+{
+	"idSymtomGroup" : "09", 
+	"SymtomName" : "ยาบรรเทาอาการไอ", 
+	"idDrugFormula" : "009" 
+}
+
+{
+	"idSymtomGroup" : "10", 
+	"SymtomName" : "ยาบรรเทาอาการหวัด", 
+	"idDrugFormula" : "010" 
+}
+{
+	"idSymtomGroup" : "11", 
+	"SymtomName" : "ยาบำรุง โลหิต", 
+	"idDrugFormula" : "011" 
+}
+{
+	"idSymtomGroup" : "12", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางกล้ามเนื้อและกระดูก", 
+	"idDrugFormula" : "012" 
+}
+{
+	"idSymtomGroup" : "13", 
+	"SymtomName" : "ยาสำหรับรับประทาน", 
+	"idDrugFormula" : "013" 
+}
+{
+	"idSymtomGroup" : "14", 
+	"SymtomName" : "ยาสำหรับใช้ภายนอก", 
+	"idDrugFormula" : "014" 
+}
+{
+	"idSymtomGroup" : "15", 
+	"SymtomName" : "ยาบำรุงธาตุ ปรับธาตุ", 
+	"idDrugFormula" : "015" 
+}
+{
+	"idSymtomGroup" : "16", 
+	"SymtomName" : "ยารักษากลุ่มอาการของระบบทางเดินอาหาร", 
+	"idDrugFormula" : "016" 
+}
+{
+	"idSymtomGroup" : "17", 
+	"SymtomName" : "กลุ่มยาขับลม บรรเทาอาการท้องอืด ท้องเฟ้อ", 
+	"idDrugFormula" : "017" 
+}
+{
+	"idSymtomGroup" : "18", 
+	"SymtomName" : "กลุ่มยาบรรเทาอาการท้องผูก", 
+	"idDrugFormula" : "018" 
+}
+{
+	"idSymtomGroup" : "19", 
+	"SymtomName" : "กลุ่มยาบรรเทาอาการท้องเสีย", 
+	"idDrugFormula" : "019" 
+}
+{
+	"idSymtomGroup" : "20", 
+	"SymtomName" : "กลุ่มยารักษาแผลในกระเพาะอาหาร", 
+	"idDrugFormula" : "020" 
+}
+{
+	"idSymtomGroup" : "21", 
+	"SymtomName" : "กลุ่มยาบรรเทาอาการคลื่นไส้อาเจียน", 
+	"idDrugFormula" : "021" 
+}
+{
+	"idSymtomGroup" : "22", 
+	"SymtomName" : "ยารักษากลุ่มอาการของระบบทางเดินหายใจ", 
+	"idDrugFormula" : "022" 
+}
+{
+	"idSymtomGroup" : "23", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางระบบผิวหนัง", 
+	"idDrugFormula" : "023" 
+}
+{
+	"idSymtomGroup" : "24", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางกล้ามเนื้อและกระดูก", 
+	"idDrugFormula" : "024" 
+}
+{
+	"idSymtomGroup" : "25", 
+	"SymtomName" : "ยาสำหรับรับประทาน", 
+	"idDrugFormula" : "025" 
+}
+{
+	"idSymtomGroup" : "26", 
+	"SymtomName" : "ยาสำหรับใช้ภายนอก", 
+	"idDrugFormula" : "026" 
+}
+{
+	"idSymtomGroup" : "27", 
+	"SymtomName" : "ยารักษากลุ่มอาการทางระบบทางเดินปัสสาวะ", 
+	"idDrugFormula" : "027" 
+}
+{
+	"idSymtomGroup" : "28", 
+	"SymtomName" : "ยาแก้ไข้แก้ร้อนใน", 
+	"idDrugFormula" : "028" 
+}
+{
+	"idSymtomGroup" : "29", 
+	"SymtomName" : "ยาถอนพิษเบื่อเมา", 
+	"idDrugFormula" : "029" 
+}
+{
+	"idSymtomGroup" : "30", 
+	"SymtomName" : "ยาลดความอยากบุหรี่", 
+	"idDrugFormula" : "030" 
+}
+
